@@ -10,19 +10,25 @@ export default defineConfig({
     logo: '/favicon.ico', // Путь к логотипу в .vitepress/public
 
     nav: [
-      { text: 'Домой', link: '/' },
-      { text: 'Документация', link: '/getting-start' }
+      { text: 'Документация', link: '/welcome' }
     ],
 
     sidebar: [
       {
-        text: 'Страницы',
+        text: 'Начало',
         items: [
-          { text: 'Документация', link: '/getting-start' },
-          { text: 'Проекты', link: '/projects' }
+          { text: 'Приветствие', link: '/welcome' },
         ]
       },
-      
+
+      {
+        text: 'AITU Superapp',
+        items: [
+          { text: 'Информация', link: '/superapp' },
+          { text: 'Интеграция', link: '/superapp/integration' },
+        ]
+      },
+
     ],
   }
 })

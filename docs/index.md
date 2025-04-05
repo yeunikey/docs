@@ -9,8 +9,8 @@ hero:
 
   actions:
     - theme: brand
-      text: Быстрый старт
-      link: /getting-start
+      text: Начать
+      link: /welcome
     - theme: alt
       text: Проекты
       link: /projects
