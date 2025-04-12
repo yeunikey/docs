@@ -6,7 +6,7 @@ outline: deep
 
 Прежде чем начать разработку под **AITU Superapp**, важно понять, как всё работает в целом и какие принципы лежат в его основе.
 
-![AITU Superapp](https://i.imgur.com/IBOzeES.png)
+![AITU Superapp](https://i.imgur.com/PQun75k.png)
 
 ---
 
